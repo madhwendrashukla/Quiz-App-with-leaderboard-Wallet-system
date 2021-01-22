@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235830975509",
+    "project_id": "the-quiz-app-4ccaa",
+    "storage_bucket": "the-quiz-app-4ccaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235830975509:android:24297225e876a147c9021c",
+        "android_client_info": {
+          "package_name": "com.madhwendra.quiztrace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235830975509-jfseci1ppaq27mlu7f5hhm6rrnhbvfra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZmKlsvxU5cI5FauD71bfPpzzNKnicOQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235830975509-jfseci1ppaq27mlu7f5hhm6rrnhbvfra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
